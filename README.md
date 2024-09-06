@@ -18,7 +18,7 @@ Data Filtering: Filter the data based on various criteria such as route, price, 
 
 **Tools**
 
-Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library), DateTime(Library)
+Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library)
 
 **Approach**
 
